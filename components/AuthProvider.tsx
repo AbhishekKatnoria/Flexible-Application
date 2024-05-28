@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const AuthProvider = () => {
-  return (
-    <div>
-      hello World
-    </div>
-  )
-}
+  return <div className="">hello World</div>;
+};
 
-export default AuthProvider
+export default AuthProvider;
